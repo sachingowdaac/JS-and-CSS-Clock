@@ -1,2 +1,1 @@
-# JS-and-CSS-Clock
-We build a CSS + JS Clock in Vanilla JS
+Simple Clock with JavaScript
